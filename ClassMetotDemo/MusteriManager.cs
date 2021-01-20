@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ClassMetotDemo
 {
-    public class MusteriManager
+     class MusteriManager
     {
         public void Silme(Musteri musteri)
         {
